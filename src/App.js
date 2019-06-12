@@ -91,7 +91,9 @@ const estilo = StyleSheet.create({
     alignItems: 'center'
   },
   resultado: {
-    fontSize: 30,
-    color: '#1E4AE8',
+    marginTop: 10,
+    marginBottom: 10,
+    color: '#191970',
+    fontSize:30
   }
 });
